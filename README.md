@@ -1,7 +1,7 @@
 # SimpleXMLDB
 A simple XML DB to read and write XML files. Can be configured to backup data onto AWS S3.
 
-# TO DO
+### TO DO
 - [ ]  basic routing system - to handle the GETs, PUTs, POSTs
 - [ ]  reject requests other than from whitelisted IPs
 - [x]  add XML
