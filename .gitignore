@@ -1,0 +1,30 @@
+#################
+## Windows detritus
+#################
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# Mac crap
+.DS_Store
+
+# bat files
+app.bat
+
+#################
+## Directories
+#################
+
+node_modules/
+_config/*
+_config/config.js
+_logs/*
+/.project
+npm-debug.log*
